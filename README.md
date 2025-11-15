@@ -4,8 +4,8 @@
 This project is a movie browsing web application built using **React**, **Vite**, and **TMDB API**.  
 Users can explore popular movies, filter by genres, and add/remove movies from their watchlist.
 
+Deploy Link:https://movie-card-lemon.vercel.app
 ## 🚀 Features
-
 - ✅ Fetch movies using TMDB API
 - ✅ Display movie cards with posters, ratings, and titles
 - ✅ Genre-based filtering
